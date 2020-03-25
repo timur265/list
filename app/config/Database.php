@@ -7,9 +7,9 @@ use PDOException;
 
 class Database {
 
-    private $host = 'https://mysql.zzz.com.ua';
+    private $host = 'mysql.zzz.com.ua';
     private $dbname = 'timur265';
-    private $password = '6623434asS';
+    private $password = '6623434ASd';
     private $username = 'round';
     private $conn;
 
